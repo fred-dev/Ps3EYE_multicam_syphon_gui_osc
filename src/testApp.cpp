@@ -12,7 +12,7 @@ void testApp::setup(){
     receiver.setup(recievePort);
 
 	//ofSetVerticalSync(false);
-	
+	//changes for fun
 	ofSetLogLevel(OF_LOG_VERBOSE);	
 	
 	vector<ofxMacamPs3EyeDeviceInfo*> deviceList = ofxMacamPs3Eye::getDeviceList();
