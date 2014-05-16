@@ -15,7 +15,7 @@ void testApp::setup(){
 	//changes for fun
 	ofSetLogLevel(OF_LOG_VERBOSE);	
 	
-	vector<ofxMacamPs3EyeDeviceInfo*> deviceList = ofxMacamPs3Eye::getDeviceList();
+	vector<ofxMacamPs3EyeDeviceInfo*> deviceList = ofxMacamPs3Eye::getDeviceInfoList();
 	for (int i = 0; i < deviceList.size(); i++) {
         ofxSyphonServer * server = new ofxSyphonServer();
 		ofxMacamPs3Eye * camera = new ofxMacamPs3Eye();
