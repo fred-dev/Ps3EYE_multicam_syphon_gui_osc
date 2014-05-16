@@ -1,0 +1,38 @@
+<controls>
+    <Toggle_Draw_Camera>
+        <name>Draw Camera</name>
+        <value>1</value>
+    </Toggle_Draw_Camera>
+    <SliderFloat_Gain>
+        <name>Gain</name>
+        <value>0.529999971</value>
+    </SliderFloat_Gain>
+    <SliderFloat_Shutter>
+        <name>Shutter</name>
+        <value>0.519999981</value>
+    </SliderFloat_Shutter>
+    <SliderFloat_Gamma>
+        <name>Gamma</name>
+        <value>0.479999989</value>
+    </SliderFloat_Gamma>
+    <SliderFloat_Brightness>
+        <name>Brightness</name>
+        <value>0.545000017</value>
+    </SliderFloat_Brightness>
+    <SliderFloat_Contrast>
+        <name>Contrast</name>
+        <value>0.600000024</value>
+    </SliderFloat_Contrast>
+    <SliderFloat_Hue>
+        <name>Hue</name>
+        <value>0.540000021</value>
+    </SliderFloat_Hue>
+    <SliderInt_Flicker_Mode>
+        <name>Flicker Mode</name>
+        <value>2</value>
+    </SliderInt_Flicker_Mode>
+    <SliderInt_White_Balance_Mode>
+        <name>White Balance Mode</name>
+        <value>2</value>
+    </SliderInt_White_Balance_Mode>
+</controls>
