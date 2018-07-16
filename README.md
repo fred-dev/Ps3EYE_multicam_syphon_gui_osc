@@ -1,6 +1,10 @@
 Ps3EYE_multicam_syphon_gui_osc
 ==============================
 
+
+This app is depreciated and the repo will no longer be updated, please see https://github.com/fred-dev/ps3EyeSyphon_2 for the new version.
+
+
 Input multiple ps3eye cameras and syphon out with osc control and gui.
 
 press g to show the gui
